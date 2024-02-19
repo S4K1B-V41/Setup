@@ -1,0 +1,10 @@
+pkg update 
+pkg upgrade 
+pkg install git
+pkg install python 
+pkg install python2
+pip install requests
+pip install bs4
+pkg install zip
+pkg install unzip
+pkg install cat
